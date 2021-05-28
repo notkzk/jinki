@@ -1,0 +1,2 @@
+# jinki
+HUGO theme
